@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: BadJudge
+description: ICLR 2025
+img: assets/img/iclr2025_preview.jpg
 importance: 1
+redirect: https://terrytong-git.github.io/badjudger/
 category: work
 related_publications: true
 ---
