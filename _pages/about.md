@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://luka-group.github.io'>Researcher @ LUKA </a>. <a href='https://cs.ucdavis.edu'>3rd year CSE @ UC Davis </a>
+subtitle: <a href='https://cogcomp.seas.upenn.edu/'> Research Programmer @ Cognitive Computation Group, Upenn </a>. <a href='https://cs.ucdavis.edu'>4th year CS @ UC Davis </a>
 
 profile:
   align: right
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>2134</p>
-    <p>Kemper Hall</p>
-    <p>UC Davis, CA</p>
+    <p>Multimodal AI Lab,</p>
+    <p>Amy Gutmann Hall,</p>
+    <p>University of Pennsylvania, PA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 3rd year undergraduate student pursuing a Bachelor's Degree in Computer Science and Engineering at [UC Davis](https://www.ucdavis.edu). I am also an undergraduate researcher at the Language Understanding and Knowledge Aquisition Lab ([LUKA](https://luka-group.github.io)), where I am fortunate to be co-advised by Professors [Muhao Chen](https://muhaochen.github.io) and [Zhe Zhao](https://sites.google.com/view/zhezhao). Recently, I am also lucky to work closely with Professor [Anshuman Chaabra](https://www.anshumanc.com). My work is supported by an [Undergraduate Provost Fellowship](https://urc.ucdavis.edu/PUF). I am also involved in the [Amazon Trustworthy AI Challenge](https://www.amazon.science/trusted-ai-challenge).
+I am a full-time **Research Programmer** at [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/) and fortunate to be advised by Professor [Dan Roth](https://www.cis.upenn.edu/~danroth/), and work closely with Professor [Surbhi Goel](https://www.surbhigoel.com/). I am also a  part-time 4th year undergrad in CS w/ a minor in Math at [UC Davis](https://www.ucdavis.edu), wrapping up my degree in my final quarter. Prior to Upenn, I was an undergraduate researcher at the Language Understanding and Knowledge Aquisition Lab ([LUKA](https://luka-group.github.io)), where I was fortunate to be co-advised by Professors [Muhao Chen](https://muhaochen.github.io) and [Zhe Zhao](https://sites.google.com/view/zhezhao). My work is supported by a [Provost Fellowship](https://urc.ucdavis.edu/PUF). I was also involved in the [Amazon Trustworthy AI Challenge](https://www.amazon.science/trusted-ai-challenge).
 
-My research interests are in data-centric machine learning for natural language processing. Previously, I have worked on data-centric security vulnerabilties to LLMs, and am now focusing on data selection for LLMs.
+I currently work on __LLM Reasoning__ and neuro-symbolic methods to improve reliability, robustness, and performance in foundation models. Previously, I worked on post-training methods to reduce data poisoning vulnerabilities in language models. My broad interests are in computational and statistical methods to understand intelligence. I primarly focus on three research avenues: 
+
+1) _Analysis of AI_ : Why do models make the decisions they do? How can we better evaluate models? 
+
+2) _Solving AI_ : How can we improve reasoning and planning? What capabilities do foundation models unlock? How can we improve models beyond scaling up?
+
+3) _Responsible AI_ : How can we reduce knowledge conflicts? How can we mitigate hallucinations?
